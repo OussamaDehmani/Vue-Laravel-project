@@ -153,8 +153,8 @@ return [
     |
     */
 
-    // 'domain' => env('SESSION_DOMAIN', null),
-    'domain' => 'elearningapp.test',
+     'domain' => env('SESSION_DOMAIN', null),
+    //'domain' => 'elearningapp.test',
 
     /*
     |--------------------------------------------------------------------------
